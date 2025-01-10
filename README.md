@@ -39,7 +39,7 @@ HECO: https://heco2022.github.io/
 
 The dataset folder should be structured as follows:
 ```sh
-Emotic # the downloaded v2xset data
+Emotic 
   —— Annotations
   ── emotic
     —— ade20k
@@ -47,7 +47,7 @@ Emotic # the downloaded v2xset data
     —— framesdb
     —— mscoco
   ── test.csv
-HECO # the downloaded opv2v data
+HECO 
   ── Data
   ── test.csv
 ```
