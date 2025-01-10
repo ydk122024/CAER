@@ -88,9 +88,8 @@ Without these, nothing could happen in this repository.
  ## Citation
 If you are using our PediatricsGPT for your research, please cite the following paper:
  ```bibtex
-@article{lei2024large,
-  title={Large vision-language models as emotion recognizers in context awareness},
+@inproceedings{lei2024large,
+  title={Large Vision-Language Models as Emotion Recognizers in Context Awareness},
   author={Lei, Yuxuan and Yang, Dingkang and Chen, Zhaoyu and Chen, Jiawei and Zhai, Peng and Zhang, Lihua},
-  journal={arXiv preprint arXiv:2407.11300},
-  year={2024}
+  booktitle={The 16th Asian Conference on Machine Learning (Conference Track)}
 }
