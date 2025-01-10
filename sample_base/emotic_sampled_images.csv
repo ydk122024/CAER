@@ -1,0 +1,397 @@
+Unnamed: 0,Index,Folder,Filename,Image Size,BBox,Categorical_Labels,Continuous_Labels,Gender,Age
+21903,21903,ade20k/images,sun_azqahznzhnkqwmej.jpg,"[640, 480]","[209, 210, 461, 478]",['Engagement'],"[5, 6, 9]",Female,Adult
+7308,7308,ade20k/images,sun_awomyvfomkywkvqa.jpg,"[500, 375]","[161, 51, 363, 264]","['Anticipation', 'Confidence', 'Engagement']","[6, 4, 6]",Male,Adult
+11681,11681,ade20k/images,sun_abwzbarqemoxblwq.jpg,"[346, 231]","[13, 121, 116, 230]","['Happiness', 'Pleasure']","[7, 2, 4]",Female,Adult
+10652,10652,ade20k/images,sun_dylwqbkvlvjgmyzc.jpg,"[500, 333]","[1, 181, 112, 298]","['Anticipation', 'Confidence', 'Excitement']","[6, 8, 6]",Male,Adult
+6301,6301,ade20k/images,sun_addoacyezwcmefxq.jpg,"[500, 332]","[70, 113, 200, 328]","['Engagement', 'Happiness']","[10, 3, 6]",Female,Adult
+22274,22274,ade20k/images,labelme_gssckzxzkcyjflc.jpg,"[614, 461]","[153, 161, 411, 461]","['Doubt/Confusion', 'Excitement']","[8, 7, 7]",Female,Adult
+17161,17161,ade20k/images,sun_avyzsbjelxhawjgi.jpg,"[1024, 683]","[1, 244, 179, 681]",['Yearning'],"[4, 4, 6]",Female,Adult
+22122,22122,ade20k/images,sun_apjlqamjqainvtex.jpg,"[512, 341]","[249, 84, 429, 340]","['Disconnection', 'Doubt/Confusion']","[7, 4, 6]",Female,Adult
+1426,1426,ade20k/images,sun_arpswanompnfgiaw.jpg,"[398, 260]","[233, 36, 355, 260]","['Confidence', 'Engagement', 'Happiness']","[6, 5, 9]",Male,Adult
+3858,3858,ade20k/images,labelme_zuqvyqqvdohwdef.jpg,"[2048, 1536]","[1271, 703, 1499, 1457]",['Disconnection'],"[5, 4, 6]",Female,Adult
+13725,13725,ade20k/images,sun_ajcpyppgnmcyhqvi.jpg,"[640, 466]","[506, 115, 581, 417]",['Disconnection'],"[5, 2, 8]",Male,Adult
+5756,5756,ade20k/images,sun_abjlbsdrobxecyws.jpg,"[3072, 2304]","[2247, 278, 2926, 1428]","['Engagement', 'Happiness', 'Peace']","[5, 3, 7]",Male,Teenager
+14317,14317,ade20k/images,sun_aazyarazogyqnprd.jpg,"[250, 250]","[134, 129, 214, 236]",['Confidence'],"[6, 4, 7]",Male,Adult
+16977,16977,ade20k/images,sun_danoagalheyrtmks.jpg,"[594, 430]","[99, 107, 282, 313]","['Disconnection', 'Engagement']","[5, 4, 6]",Male,Adult
+12742,12742,ade20k/images,sun_atllfudelejtsofh.jpg,"[300, 225]","[54, 41, 136, 224]",['Engagement'],"[6, 4, 7]",Male,Adult
+12615,12615,ade20k/images,sun_aikmcrwbkmmovrrj.jpg,"[800, 559]","[429, 293, 590, 451]","['Annoyance', 'Engagement']","[5, 4, 6]",Male,Adult
+5755,5755,ade20k/images,sun_abjlbsdrobxecyws.jpg,"[3072, 2304]","[2001, 372, 2560, 1320]",['Doubt/Confusion'],"[5, 4, 6]",Male,Kid
+3989,3989,ade20k/images,labelme_sgeghboyugsatii.jpg,"[640, 480]","[172, 203, 244, 467]","['Anticipation', 'Confidence', 'Disquietment', 'Doubt/Confusion', 'Engagement', 'Fatigue', 'Yearning']","[5, 4, 6]",Female,Adult
+21120,21120,ade20k/images,sun_bvxpgwlklpexkjyh.jpg,"[1600, 1200]","[924, 378, 1326, 1193]","['Doubt/Confusion', 'Excitement', 'Pleasure']","[6, 4, 6]",Male,Teenager
+21858,21858,ade20k/images,sun_aubswziqqygbvpvc.jpg,"[640, 480]","[248, 210, 494, 419]","['Disconnection', 'Doubt/Confusion', 'Engagement', 'Fatigue']","[4, 3, 6]",Male,Adult
+6316,6316,ade20k/images,sun_ajkhzusrmlwsxbra.jpg,"[594, 328]","[225, 28, 408, 290]","['Anticipation', 'Engagement', 'Excitement']","[5, 8, 7]",Male,Adult
+19252,19252,ade20k/images,sun_bnsqcxnpkpikjmej.jpg,"[1079, 815]","[876, 233, 1002, 799]",['Anticipation'],"[5, 5, 6]",Male,Teenager
+20264,20264,ade20k/images,sun_azpbyxhoupfblccl.jpg,"[3264, 2448]","[1139, 872, 1616, 1978]","['Affection', 'Excitement']","[8, 7, 7]",Female,Adult
+2280,2280,ade20k/images,sun_aaumzixarlpqrcyz.jpg,"[500, 326]","[119, 72, 183, 261]","['Anticipation', 'Excitement']","[6, 5, 5]",Male,Adult
+12580,12580,ade20k/images,sun_axtdhsfhjofpzxnz.jpg,"[2471, 1974]","[1637, 65, 2267, 1916]","['Doubt/Confusion', 'Engagement']","[5, 3, 5]",Male,Adult
+850,850,ade20k/images,sun_bhkihvrcphyhktlq.jpg,"[1063, 808]","[678, 340, 1029, 808]","['Affection', 'Engagement', 'Happiness', 'Peace', 'Pleasure', 'Sympathy']","[7, 4, 5]",Male,Adult
+4589,4589,ade20k/images,labelme_rsruntnxdwetlpj.jpg,"[1600, 1200]","[793, 485, 983, 1019]",['Disconnection'],"[5, 10, 4]",Female,Adult
+648,648,ade20k/images,sun_aoumcxqghppwjchf.jpg,"[768, 1024]","[188, 263, 756, 779]",['Engagement'],"[5, 7, 10]",Male,Adult
+17287,17287,ade20k/images,sun_bhzlqnqdkkczjurp.jpg,"[450, 600]","[89, 3, 280, 599]","['Affection', 'Confidence', 'Excitement', 'Happiness', 'Pleasure']","[6, 6, 7]",Female,Teenager
+14160,14160,ade20k/images,sun_atfeohhwoluvrdyp.jpg,"[568, 426]","[339, 157, 499, 313]",['Happiness'],"[6, 6, 5]",Male,Adult
+12583,12583,ade20k/images,sun_axtdhsfhjofpzxnz.jpg,"[2471, 1974]","[2110, 314, 2469, 1970]","['Anticipation', 'Engagement']","[5, 4, 6]",Female,Adult
+10643,10643,ade20k/images,labelme_rugtxzwnaacuosf.jpg,"[2048, 1536]","[1749, 855, 2001, 1536]",['Anticipation'],"[6, 4, 6]",Female,Adult
+23063,23063,ade20k/images,sun_asvdvawdixqbendq.jpg,"[443, 340]","[346, 26, 439, 327]",['Yearning'],"[5, 3, 7]",Female,Teenager
+7545,7545,ade20k/images,sun_auuesxbqkbahrkzp.jpg,"[500, 334]","[333, 76, 440, 333]","['Disconnection', 'Doubt/Confusion']","[4, 4, 6]",Male,Adult
+8381,8381,ade20k/images,sun_aigqvfdxpslzwlyy.jpg,"[600, 450]","[99, 133, 199, 388]","['Doubt/Confusion', 'Engagement', 'Happiness']","[6, 4, 7]",Female,Adult
+9232,9232,ade20k/images,sun_aaljzgnlvrcxrqvo.jpg,"[512, 341]","[1, 45, 150, 148]","['Anticipation', 'Esteem']","[5, 2, 9]",Male,Adult
+8854,8854,ade20k/images,sun_agwrkfatusupzchx.jpg,"[340, 254]","[194, 42, 249, 123]","['Anticipation', 'Confidence', 'Engagement', 'Happiness']","[7, 4, 7]",Male,Adult
+13225,13225,ade20k/images,labelme_bftfwehzkyzhxvr.jpg,"[1600, 1200]","[710, 265, 950, 1128]",['Disconnection'],"[6, 4, 6]",Male,Adult
+11897,11897,ade20k/images,labelme_qmwtpcaclebifio.jpg,"[1600, 1200]","[310, 1, 690, 1200]",['Happiness'],"[7, 7, 7]",Male,Adult
+884,884,ade20k/images,sun_avvemgvxatrpclie.jpg,"[270, 203]","[138, 56, 269, 168]",['Disconnection'],"[4, 4, 7]",Male,Adult
+6317,6317,ade20k/images,sun_ajkhzusrmlwsxbra.jpg,"[594, 328]","[228, 42, 336, 221]",['Engagement'],"[5, 8, 6]",Male,Adult
+10868,10868,ade20k/images,sun_agsarekemttowzuw.jpg,"[472, 311]","[124, 66, 201, 166]",['Anticipation'],"[5, 2, 9]",Male,Adult
+13602,13602,ade20k/images,sun_davpbwwqhqwfwpgj.jpg,"[2592, 1944]","[817, 253, 1244, 1766]",['Confidence'],"[6, 6, 7]",Male,Adult
+20154,20154,ade20k/images,sun_anwxyatrsqcgtbou.jpg,"[780, 342]","[273, 80, 437, 333]",['Confidence'],"[5, 5, 6]",Female,Kid
+14190,14190,ade20k/images,sun_aabfwjjrigojioyo.jpg,"[568, 426]","[379, 163, 483, 344]","['Embarrassment', 'Excitement', 'Happiness']","[7, 5, 5]",Female,Adult
+20985,20985,ade20k/images,sun_anikqhdmzwnczpje.jpg,"[1280, 960]","[659, 213, 1134, 960]","['Annoyance', 'Disquietment']","[5, 3, 6]",Female,Adult
+22120,22120,ade20k/images,sun_apjlqamjqainvtex.jpg,"[512, 341]","[168, 74, 259, 329]","['Doubt/Confusion', 'Fatigue']","[5, 5, 5]",Male,Adult
+17160,17160,ade20k/images,sun_bvqukdvaekstfkhg.jpg,"[1280, 960]","[98, 186, 377, 933]","['Anticipation', 'Confidence', 'Engagement']","[6, 4, 7]",Female,Adult
+18653,18653,ade20k/images,sun_amaovcrvkenqmzak.jpg,"[270, 206]","[76, 55, 251, 204]","['Confidence', 'Engagement', 'Happiness']","[6, 2, 9]",Male,Adult
+22644,22644,ade20k/images,sun_ahqlnwnttenzcgmk.jpg,"[2521, 2444]","[103, 469, 738, 2406]","['Engagement', 'Peace']","[6, 3, 7]",Female,Adult
+23004,23004,ade20k/images,sun_amnmkcxhonzzzayv.jpg,"[353, 249]","[60, 47, 136, 156]","['Engagement', 'Peace']","[6, 4, 7]",Male,Adult
+6095,6095,ade20k/images,labelme_tfnmoexgyeaeaei.jpg,"[2048, 1536]","[76, 658, 314, 1528]",['Disconnection'],"[5, 2, 7]",Female,Adult
+19903,19903,ade20k/images,labelme_nuotyugzivtsbrl.jpg,"[768, 1024]","[1, 391, 104, 797]","['Anticipation', 'Confidence', 'Disconnection']","[5, 5, 7]",Female,Adult
+21185,21185,ade20k/images,labelme_xtrtlkfwyycbenb.jpg,"[1600, 1200]","[165, 375, 617, 1196]","['Annoyance', 'Disconnection', 'Fatigue']","[5, 4, 6]",Male,Adult
+12141,12141,ade20k/images,sun_asejfvmgttgxidat.jpg,"[277, 280]","[2, 22, 113, 279]","['Anticipation', 'Confidence', 'Engagement', 'Excitement']","[5, 5, 7]",Male,Adult
+15039,15039,ade20k/images,sun_aehebxsemibocxeg.jpg,"[448, 336]","[230, 33, 405, 262]",['Engagement'],"[5, 8, 7]",Male,Teenager
+9445,9445,ade20k/images,sun_afshjaqvripgipip.jpg,"[400, 321]","[266, 37, 368, 275]","['Engagement', 'Happiness']","[5, 4, 7]",Female,Kid
+19469,19469,ade20k/images,sun_avdhhaguyqbpoxwq.jpg,"[500, 360]","[282, 188, 369, 302]","['Excitement', 'Happiness', 'Sympathy']","[7, 5, 5]",Female,Adult
+7231,7231,ade20k/images,sun_aopfakremteccarx.jpg,"[500, 334]","[127, 90, 213, 291]","['Engagement', 'Peace']","[5, 5, 4]",Male,Adult
+17530,17530,ade20k/images,sun_autlunbwggaskvdb.jpg,"[553, 369]","[394, 45, 512, 172]","['Annoyance', 'Confidence']","[4, 7, 3]",Male,Adult
+19468,19468,ade20k/images,sun_avdhhaguyqbpoxwq.jpg,"[500, 360]","[167, 176, 281, 360]","['Engagement', 'Esteem', 'Happiness']","[10, 3, 5]",Male,Adult
+11236,11236,ade20k/images,labelme_fjcqebsjrjqaxut.jpg,"[2560, 1920]","[452, 1153, 871, 1891]","['Engagement', 'Peace']","[5, 3, 6]",Male,Adult
+13804,13804,ade20k/images,sun_ahjtexbsocuhnnrm.jpg,"[500, 333]","[107, 33, 155, 210]",['Disconnection'],"[6, 4, 6]",Male,Adult
+12212,12212,ade20k/images,sun_awhmjtuprffrxgvd.jpg,"[478, 320]","[1, 45, 189, 319]","['Disapproval', 'Doubt/Confusion', 'Sadness']","[4, 4, 6]",Male,Adult
+1453,1453,ade20k/images,sun_bdhqlwspkmhzclcw.jpg,"[2560, 1920]","[1139, 544, 2444, 1917]","['Anticipation', 'Confidence', 'Doubt/Confusion', 'Engagement', 'Excitement', 'Happiness', 'Peace', 'Pleasure', 'Surprise']","[6, 4, 6]",Male,Adult
+2715,2715,ade20k/images,sun_akaqhwggkmqzavbx.jpg,"[640, 480]","[27, 86, 174, 479]",['Engagement'],"[6, 4, 6]",Female,Adult
+15156,15156,ade20k/images,sun_bhfgmrgdocgbpcnm.jpg,"[2464, 1648]","[1324, 585, 1764, 1142]","['Engagement', 'Peace']","[6, 2, 6]",Female,Adult
+16980,16980,ade20k/images,sun_armcdmakeeediqfv.jpg,"[1063, 697]","[449, 94, 598, 546]","['Anticipation', 'Fatigue', 'Fear']","[5, 5, 6]",Male,Adult
+11335,11335,ade20k/images,sun_ahzohpkhrovyqewy.jpg,"[1423, 1103]","[387, 369, 588, 870]","['Anticipation', 'Confidence']","[4, 7, 8]",Female,Teenager
+5678,5678,ade20k/images,sun_abuxvxzkethzpvxr.jpg,"[640, 480]","[73, 157, 173, 454]","['Disconnection', 'Peace']","[5, 4, 6]",Male,Adult
+17141,17141,ade20k/images,labelme_jxyafpmktdyqaiq.jpg,"[2048, 1536]","[64, 524, 347, 1143]",['Disconnection'],"[5, 2, 5]",Male,Adult
+23057,23057,ade20k/images,sun_aasoadryklxaqeqd.jpg,"[497, 372]","[137, 179, 281, 361]","['Anticipation', 'Confidence', 'Excitement', 'Happiness']","[7, 5, 6]",Female,Teenager
+22750,22750,ade20k/images,sun_azbpjppgpzzuwlkl.jpg,"[640, 480]","[373, 61, 471, 292]","['Anticipation', 'Engagement']","[5, 5, 4]",Male,Adult
+19838,19838,ade20k/images,sun_bquialkzlimpktni.jpg,"[1152, 864]","[275, 63, 623, 727]",['Confidence'],"[5, 4, 6]",Male,Adult
+19941,19941,ade20k/images,sun_aqmfgoazeflfvzhg.jpg,"[754, 594]","[209, 247, 463, 477]","['Affection', 'Anticipation', 'Confidence', 'Doubt/Confusion', 'Engagement', 'Peace', 'Sympathy']","[6, 4, 6]",Female,Adult
+18777,18777,ade20k/images,sun_albeqsasxsjewevq.jpg,"[500, 375]","[424, 168, 479, 347]","['Anticipation', 'Happiness']","[5, 4, 6]",Male,Adult
+8621,8621,ade20k/images,labelme_hbivjkvycdjuovv.jpg,"[2048, 1536]","[428, 829, 999, 1429]",['Disconnection'],"[2, 4, 4]",Male,Adult
+14191,14191,ade20k/images,sun_aabfwjjrigojioyo.jpg,"[568, 426]","[373, 42, 497, 236]","['Engagement', 'Happiness']","[7, 4, 7]",Male,Adult
+9651,9651,ade20k/images,sun_bgbaurppeusnaugd.jpg,"[1311, 874]","[198, 92, 476, 831]","['Confidence', 'Happiness']","[8, 3, 6]",Male,Adult
+20476,20476,ade20k/images,labelme_eixslaookutvifa.jpg,"[2048, 1536]","[153, 729, 419, 1431]","['Anticipation', 'Disconnection']","[6, 4, 8]",Female,Adult
+10582,10582,ade20k/images,sun_aftkuntnrwjbmffw.jpg,"[1200, 1600]","[329, 350, 625, 1391]","['Confidence', 'Happiness']","[7, 3, 7]",Female,Adult
+6513,6513,ade20k/images,sun_aqeknezfpkljzlbr.jpg,"[525, 394]","[194, 275, 304, 392]","['Disconnection', 'Surprise']","[5, 4, 6]",Male,Adult
+1100,1100,ade20k/images,sun_bcqhfikrglmxqdqc.jpg,"[1252, 748]","[287, 272, 511, 739]","['Engagement', 'Peace']","[5, 3, 8]",Male,Adult
+21232,21232,ade20k/images,sun_ajzpaoryjpoxjcwo.jpg,"[612, 475]","[3, 225, 141, 474]","['Confidence', 'Engagement']","[5, 4, 7]",Male,Adult
+10693,10693,ade20k/images,labelme_tjfofekalabefpg.jpg,"[640, 480]","[476, 195, 565, 477]",['Disconnection'],"[5, 3, 7]",Male,Adult
+20942,20942,ade20k/images,sun_atprumqkxdpygisx.jpg,"[550, 364]","[201, 134, 268, 363]",['Anticipation'],"[6, 5, 4]",Female,Adult
+2716,2716,ade20k/images,sun_akaqhwggkmqzavbx.jpg,"[640, 480]","[273, 131, 524, 478]",['Engagement'],"[4, 4, 7]",Female,Teenager
+22387,22387,ade20k/images,sun_armkqlqjtbtoqzqo.jpg,"[591, 425]","[373, 2, 589, 423]","['Confidence', 'Engagement', 'Peace']","[5, 2, 7]",Male,Adult
+21453,21453,ade20k/images,sun_aewxbgwemnflhkxw.jpg,"[600, 800]","[4, 231, 125, 590]","['Anticipation', 'Engagement', 'Excitement', 'Happiness']","[5, 5, 6]",Male,Kid
+21904,21904,ade20k/images,sun_azqahznzhnkqwmej.jpg,"[640, 480]","[6, 154, 145, 335]",['Excitement'],"[5, 6, 6]",Male,Adult
+7553,7553,ade20k/images,labelme_ggjhzmrelekpvxd.jpg,"[1280, 960]","[840, 622, 1154, 959]",['Engagement'],"[7, 5, 6]",Female,Adult
+2050,2050,ade20k/images,sun_dnxhxsnxwjesksua.jpg,"[533, 400]","[174, 32, 446, 398]",['Engagement'],"[5, 3, 8]",Male,Adult
+17919,17919,ade20k/images,sun_bvbhoqkgkjcdprvm.jpg,"[2008, 1529]","[1288, 569, 1858, 1512]","['Anticipation', 'Engagement']","[5, 3, 6]",Female,Adult
+1216,1216,ade20k/images,sun_aqkkxfaxtduojdsw.jpg,"[800, 600]","[497, 182, 642, 542]","['Anticipation', 'Engagement', 'Excitement']","[6, 8, 8]",Male,Adult
+16330,16330,ade20k/images,sun_aajrkgygaguuddbv.jpg,"[500, 375]","[95, 141, 192, 374]",['Disconnection'],"[5, 4, 5]",Male,Adult
+3988,3988,ade20k/images,labelme_sgeghboyugsatii.jpg,"[640, 480]","[315, 209, 424, 480]","['Anticipation', 'Doubt/Confusion', 'Fatigue', 'Surprise', 'Yearning']","[6, 4, 6]",Female,Adult
+10692,10692,ade20k/images,labelme_tjfofekalabefpg.jpg,"[640, 480]","[392, 198, 475, 476]","['Annoyance', 'Pain']","[5, 4, 4]",Male,Adult
+2684,2684,emodb_small/images,49mf36pf0n7uv4bawa.jpg,"[366, 640]","[45, 157, 239, 365]","['Excitement', 'Happiness', 'Pleasure']","[8, 5, 7]",Female,Adult
+2275,2275,emodb_small/images,4qtl5kntt85xkubhpw.jpg,"[175, 288]","[136, 55, 175, 152]","['Confidence', 'Pleasure']","[8, 10, 7]",Female,Adult
+12527,12527,emodb_small/images,e9mggz46dhwvbl4lgc.jpg,"[338, 550]","[183, 180, 309, 335]","['Pain', 'Sadness', 'Sensitivity', 'Sympathy']","[2, 5, 5]",Female,Adult
+6985,6985,emodb_small/images,gy4912de6dob9glhta.jpg,"[340, 460]","[16, 38, 215, 339]","['Anger', 'Annoyance', 'Disapproval', 'Engagement']","[3, 6, 4]",Female,Adult
+7728,7728,emodb_small/images,0ftsc0udlkyfp3n109.jpg,"[300, 450]","[104, 45, 257, 300]","['Happiness', 'Pleasure']","[9, 7, 7]",Male,Kid
+11602,11602,emodb_small/images,7uxsy99bqbkxylmig7.jpg,"[183, 275]","[3, 21, 183, 180]","['Disapproval', 'Doubt/Confusion', 'Fatigue', 'Pain', 'Suffering', 'Surprise', 'Yearning']","[4, 2, 4]",Female,Adult
+1334,1334,emodb_small/images,0ih343yra0yy1e30zz.jpg,"[333, 500]","[171, 43, 333, 334]","['Affection', 'Anticipation', 'Confidence', 'Esteem', 'Excitement', 'Happiness', 'Pleasure']","[5, 7, 5]",Male,Adult
+19454,19454,emodb_small/images,da113prfo1fjc3v0su.jpg,"[682, 1024]","[160, 7, 682, 683]","['Anger', 'Annoyance', 'Aversion', 'Disapproval']","[3, 5, 5]",Female,Adult
+23159,23159,emodb_small/images,fva3gxfjhz6hdbus0m.jpg,"[600, 800]","[13, 36, 600, 600]","['Anger', 'Annoyance', 'Disapproval']","[2, 6, 7]",Female,Adult
+17485,17485,emodb_small/images,bvlkuojaapa0lrlgnv.jpg,"[194, 259]","[0, 62, 57, 178]",['Disquietment'],"[6, 5, 6]",Male,Adult
+15431,15431,emodb_small/images,1dbvvullt5w5gm7wwk.jpg,"[706, 1000]","[53, 228, 333, 704]","['Engagement', 'Excitement', 'Happiness']","[6, 4, 5]",Female,Adult
+17115,17115,emodb_small/images,2w4w14gc7v0zzlo2hr.jpg,"[300, 361]","[16, 22, 300, 299]",['Sadness'],"[6, 5, 6]",Female,Adult
+18821,18821,emodb_small/images,elgllcfj5hi8u8tbah.jpg,"[848, 1137]","[4, 4, 848, 838]","['Fatigue', 'Sadness']","[1, 4, 2]",Male,Kid
+17241,17241,emodb_small/images,fn71mziqxpcgdv705y.jpg,"[449, 670]","[133, 11, 449, 446]","['Anger', 'Annoyance', 'Disquietment', 'Sadness', 'Sensitivity', 'Suffering']","[1, 7, 1]",Female,Adult
+16111,16111,emodb_small/images,fv6o8n650t47t6b5ii.jpg,"[227, 500]","[100, 0, 227, 226]",['Anger'],"[2, 6, 5]",Female,Adult
+5036,5036,emodb_small/images,77s7vrrfhazmibhvxg.jpg,"[220, 380]","[81, 17, 220, 219]",['Pain'],"[3, 4, 7]",Female,Teenager
+7750,7750,emodb_small/images,2dkxhu37bzqidf2lwk.jpg,"[164, 308]","[80, 2, 164, 162]","['Affection', 'Confidence', 'Engagement', 'Excitement', 'Happiness', 'Pleasure', 'Sympathy']","[8, 6, 6]",Female,Adult
+5956,5956,emodb_small/images,gfv420vao1ad716x4t.jpg,"[300, 199]","[2, 21, 198, 199]","['Annoyance', 'Disquietment']","[5, 5, 6]",Male,Adult
+4767,4767,emodb_small/images,c2pixaj33wvvaso97r.jpg,"[180, 280]","[92, 1, 180, 180]","['Disconnection', 'Disquietment', 'Doubt/Confusion', 'Fatigue', 'Suffering']","[3, 4, 4]",Female,Adult
+4792,4792,emodb_small/images,1ggg1cxv951z7z3yjo.jpg,"[604, 453]","[384, 103, 452, 423]",['Engagement'],"[5, 4, 6]",Male,Adult
+17373,17373,emodb_small/images,ahxrbs94d7l429s1v1.jpg,"[200, 200]","[1, 52, 198, 198]",['Anticipation'],"[6, 5, 4]",Female,Teenager
+15228,15228,emodb_small/images,cve64sedpwfo8gqn7f.jpg,"[258, 195]","[3, 0, 194, 195]",['Disapproval'],"[3, 5, 4]",Female,Adult
+3667,3667,emodb_small/images,30mnbw63bi0cltaebc.jpg,"[256, 402]","[0, 2, 256, 255]","['Engagement', 'Happiness', 'Pleasure']","[5, 5, 4]",Female,Kid
+14891,14891,emodb_small/images,64ncswxqvlpo43vg56.jpg,"[338, 506]","[147, 91, 284, 338]","['Confidence', 'Fatigue']","[7, 9, 8]",Female,Adult
+21361,21361,emodb_small/images,9or8icmsvuu67o4fuo.jpg,"[647, 684]","[185, 6, 637, 641]","['Disapproval', 'Disquietment', 'Embarrassment', 'Pain', 'Sadness', 'Sensitivity', 'Suffering']","[3, 4, 4]",Female,Adult
+16653,16653,emodb_small/images,2eb2smkrp4tsqobl71.jpg,"[160, 314]","[7, 1, 160, 160]","['Affection', 'Engagement', 'Esteem', 'Happiness', 'Peace', 'Pleasure']","[9, 7, 7]",Male,Adult
+6561,6561,emodb_small/images,2265zkcd3pjlfgnv2t.jpg,"[184, 275]","[46, 59, 162, 183]","['Affection', 'Excitement', 'Happiness']","[5, 5, 7]",Male,Kid
+3254,3254,emodb_small/images,87a2j9ry1ew3rxuubk.jpg,"[461, 620]","[34, 198, 285, 459]","['Engagement', 'Excitement', 'Happiness']","[5, 4, 7]",Female,Adult
+3562,3562,emodb_small/images,4f3wg5tgcu2uiitb8o.jpg,"[1536, 1024]","[94, 88, 905, 1024]","['Excitement', 'Happiness', 'Sympathy']","[9, 7, 7]",Female,Adult
+22225,22225,emodb_small/images,d231qtl3jsqtillooy.jpg,"[426, 630]","[397, 65, 426, 425]","['Annoyance', 'Disapproval', 'Disconnection', 'Doubt/Confusion']","[3, 6, 5]",Female,Adult
+6308,6308,emodb_small/images,0ftycj2b298gah0ex0.jpg,"[300, 450]","[0, 39, 237, 300]","['Affection', 'Engagement', 'Happiness']","[6, 4, 3]",Male,Adult
+5103,5103,emodb_small/images,18ps8yj7gmicg4agdh.jpg,"[409, 615]","[3, 40, 409, 408]","['Affection', 'Esteem', 'Happiness', 'Pleasure']","[7, 6, 5]",Female,Adult
+4180,4180,emodb_small/images,hijg5oi27a7glihvq6.jpg,"[963, 1300]","[121, 101, 603, 876]","['Disapproval', 'Disquietment', 'Doubt/Confusion', 'Surprise']","[5, 5, 5]",Female,Adult
+16132,16132,emodb_small/images,8yq92jcc0zxpk8z2dm.jpg,"[349, 620]","[44, 2, 349, 349]","['Disquietment', 'Fatigue']","[3, 4, 6]",Female,Adult
+13913,13913,emodb_small/images,5qmitq1arfkomm76a1.jpg,"[320, 450]","[198, 38, 291, 180]","['Excitement', 'Surprise']","[8, 7, 7]",Female,Teenager
+13339,13339,emodb_small/images,2wta6lguwjfm5no1d0.jpg,"[350, 261]","[1, 114, 261, 261]","['Affection', 'Happiness', 'Pleasure', 'Sympathy']","[9, 10, 10]",Male,Adult
+15066,15066,emodb_small/images,4m7t3bsqtw1upazkri.jpg,"[1339, 2000]","[1273, 664, 1339, 816]",['Engagement'],"[7, 1, 5]",Female,Kid
+10498,10498,emodb_small/images,8uudrwfv007i27otie.jpg,"[247, 330]","[55, 21, 222, 247]",['Doubt/Confusion'],"[3, 4, 6]",Female,Adult
+10554,10554,emodb_small/images,ggg4mn1vohwywall9e.jpg,"[410, 547]","[67, 6, 410, 408]","['Anger', 'Annoyance', 'Aversion', 'Disapproval', 'Disquietment', 'Suffering']","[3, 7, 3]",Female,Adult
+1622,1622,emodb_small/images,fkl4w4mjuvmk0vhorj.jpg,"[400, 648]","[243, 8, 400, 396]","['Anger', 'Annoyance']","[5, 9, 9]",Male,Adult
+2274,2274,emodb_small/images,4qtl5kntt85xkubhpw.jpg,"[175, 288]","[59, 47, 134, 166]","['Engagement', 'Excitement', 'Pleasure']","[8, 10, 7]",Female,Adult
+21650,21650,emodb_small/images,b2lpfpoxeeprpg0c74.jpg,"[251, 600]","[1, 0, 251, 252]","['Anger', 'Annoyance', 'Aversion', 'Suffering']","[4, 4, 6]",Male,Adult
+17458,17458,emodb_small/images,5o25800ombaljw6s28.jpg,"[426, 444]","[16, 90, 426, 424]","['Happiness', 'Pleasure']","[9, 6, 10]",Male,Adult
+19473,19473,emodb_small/images,7kv5tjzvqdlzx7ifup.jpg,"[577, 1024]","[88, 2, 577, 574]","['Anticipation', 'Yearning']","[3, 4, 2]",Female,Adult
+22923,22923,emodb_small/images,2hhdw4qxvea4dl2evh.jpg,"[200, 252]","[45, 60, 200, 198]","['Affection', 'Happiness', 'Peace', 'Sympathy']","[6, 7, 7]",Female,Kid
+22830,22830,emodb_small/images,c2nytiz83a01qf2vcw.jpg,"[416, 618]","[103, 17, 416, 408]","['Anticipation', 'Disapproval', 'Doubt/Confusion']","[5, 5, 5]",Male,Adult
+8321,8321,emodb_small/images,61ngh1m1l4v5osiaiw.jpg,"[500, 500]","[221, 84, 310, 182]","['Excitement', 'Happiness', 'Pleasure']","[1, 1, 1]",Female,Teenager
+1489,1489,emodb_small/images,3f0j5lriz2dr80zwd2.jpg,"[225, 225]","[2, 38, 105, 222]","['Engagement', 'Esteem', 'Happiness', 'Peace']","[6, 5, 7]",Female,Adult
+18282,18282,emodb_small/images,6burh2fms2a508h4vu.jpg,"[346, 460]","[8, 33, 249, 344]",['Disconnection'],"[4, 4, 8]",Male,Kid
+3531,3531,emodb_small/images,cweq5lp0de9x8q53ps.jpg,"[185, 272]","[23, 2, 185, 183]","['Disapproval', 'Disquietment', 'Doubt/Confusion']","[3, 4, 4]",Female,Adult
+22698,22698,emodb_small/images,4elmvzzzzkrodjgpw4.jpg,"[700, 525]","[147, 175, 252, 325]",['Happiness'],"[8, 7, 6]",Female,Adult
+2784,2784,emodb_small/images,e9b5cftu9bwcw29nnh.jpg,"[289, 456]","[109, 48, 289, 289]","['Sadness', 'Sensitivity', 'Sympathy']","[1, 7, 1]",Female,Adult
+11123,11123,emodb_small/images,3w36yswr9nkp000uq8.jpg,"[600, 600]","[365, 246, 464, 344]","['Annoyance', 'Disquietment', 'Doubt/Confusion']","[3, 4, 4]",Female,Kid
+18804,18804,emodb_small/images,bds7zneq5ypubi4woo.jpg,"[1066, 1600]","[400, 91, 718, 1063]","['Disquietment', 'Fear', 'Sadness']","[4, 6, 4]",Male,Kid
+3454,3454,emodb_small/images,4kkhdbni6p31uwb1j0.jpg,"[431, 650]","[89, 16, 363, 431]","['Annoyance', 'Engagement']","[5, 4, 5]",Female,Adult
+3740,3740,emodb_small/images,52t75wtz3ax8a0j05v.jpg,"[513, 341]","[113, 0, 341, 341]","['Confidence', 'Engagement', 'Excitement']","[6, 5, 8]",Male,Adult
+19852,19852,emodb_small/images,3hoanraf1pcwa6lpvn.jpg,"[300, 400]","[92, 111, 213, 297]","['Anticipation', 'Engagement']","[5, 4, 6]",Male,Kid
+3872,3872,emodb_small/images,eyd27i8afqr4hfed0w.jpg,"[337, 599]","[309, 115, 337, 262]","['Anger', 'Disquietment', 'Sadness', 'Surprise']","[5, 5, 6]",Male,Adult
+18560,18560,emodb_small/images,4sk4cwq7prnhaoejeg.jpg,"[159, 240]","[108, 1, 159, 158]","['Engagement', 'Excitement', 'Happiness', 'Pleasure']","[6, 7, 6]",Female,Adult
+2782,2782,emodb_small/images,e9b5cftu9bwcw29nnh.jpg,"[289, 456]","[252, 1, 289, 289]","['Disquietment', 'Sadness', 'Sensitivity', 'Suffering', 'Sympathy']","[4, 4, 7]",Female,Kid
+6478,6478,emodb_small/images,2moln294gs9fbk9n77.jpg,"[509, 453]","[180, 53, 408, 453]","['Happiness', 'Peace', 'Pleasure']","[7, 6, 9]",Male,Adult
+909,909,emodb_small/images,fa5r3o08nkixvkvo74.jpg,"[183, 275]","[72, 2, 183, 183]","['Anger', 'Annoyance', 'Disquietment', 'Fear']","[2, 10, 10]",Female,Kid
+8011,8011,emodb_small/images,g0mrubg1xve67hngnq.jpg,"[350, 560]","[262, 1, 350, 350]","['Anticipation', 'Disapproval', 'Disconnection', 'Engagement']","[5, 4, 4]",Male,Adult
+19232,19232,emodb_small/images,58veq0etci88rk2sla.jpg,"[426, 640]","[276, 1, 426, 424]","['Happiness', 'Pleasure']","[9, 4, 7]",Female,Adult
+16245,16245,emodb_small/images,7iu46psu05fk8tsdk4.jpg,"[400, 400]","[124, 125, 290, 352]","['Disconnection', 'Fatigue']","[5, 3, 4]",Female,Adult
+10017,10017,emodb_small/images,5wmo8okmodernciqm8.jpg,"[1080, 1920]","[562, 11, 1080, 1084]","['Confidence', 'Excitement', 'Happiness']","[8, 7, 6]",Female,Kid
+18723,18723,emodb_small/images,g5covv2gzr1gujhlty.jpg,"[198, 220]","[4, 15, 174, 192]","['Anger', 'Annoyance', 'Disapproval']","[5, 8, 3]",Male,Adult
+19184,19184,emodb_small/images,hgz436dyzljjlgsx2q.jpg,"[380, 594]","[7, 28, 380, 380]","['Disapproval', 'Engagement', 'Sadness']","[4, 6, 5]",Male,Adult
+3690,3690,emodb_small/images,2sauwwi1hqvc43n6l1.jpg,"[132, 200]","[45, 8, 132, 133]","['Affection', 'Engagement', 'Happiness', 'Pleasure']","[8, 5, 2]",Male,Adult
+10046,10046,emodb_small/images,85b23nlue2d2v3pjwa.jpg,"[305, 700]","[101, 6, 305, 309]","['Anticipation', 'Disconnection', 'Engagement', 'Fatigue']","[4, 5, 4]",Female,Adult
+3159,3159,emodb_small/images,9bxt4vwyaytxtt5bgk.jpg,"[337, 337]","[16, 78, 94, 320]","['Anticipation', 'Disapproval', 'Doubt/Confusion', 'Engagement']","[6, 4, 6]",Female,Adult
+21859,21859,emodb_small/images,8pvs93yj627cs6jtzb.jpg,"[259, 390]","[16, 61, 203, 259]","['Fatigue', 'Fear', 'Sadness', 'Sensitivity']","[4, 4, 3]",Male,Kid
+11965,11965,emodb_small/images,00ypqjg7ig0ocbl6s2.jpg,"[300, 450]","[54, 106, 300, 297]","['Happiness', 'Peace', 'Pleasure']","[6, 1, 7]",Female,Kid
+6089,6089,emodb_small/images,2a8lc0h0y0hs4yjnvu.jpg,"[275, 183]","[1, 0, 121, 183]","['Affection', 'Happiness', 'Pleasure']","[8, 7, 9]",Female,Adult
+10484,10484,emodb_small/images,5zfbk1dysacw5ferup.jpg,"[182, 275]","[25, 31, 182, 185]","['Happiness', 'Peace', 'Pleasure']","[10, 5, 7]",Female,Adult
+15686,15686,emodb_small/images,21ltwdjxu0qfe6gvw9.jpg,"[166, 304]","[74, 5, 166, 167]","['Affection', 'Excitement', 'Happiness', 'Pleasure', 'Surprise']","[8, 5, 7]",Female,Adult
+15150,15150,emodb_small/images,ctvx2pmqvdocr6c228.jpg,"[613, 800]","[36, 3, 613, 619]",['Aversion'],"[3, 4, 2]",Female,Adult
+6560,6560,emodb_small/images,2265zkcd3pjlfgnv2t.jpg,"[184, 275]","[61, 75, 184, 183]",['Sadness'],"[5, 4, 6]",Female,Kid
+2566,2566,emodb_small/images,ejg01p8jo4cvofip7t.jpg,"[865, 1202]","[421, 35, 784, 865]","['Sadness', 'Sensitivity', 'Suffering']","[1, 5, 5]",Female,Adult
+8897,8897,emodb_small/images,2pk3yb4z0sw26638y8.jpg,"[375, 500]","[218, 136, 354, 374]","['Affection', 'Excitement', 'Happiness']","[8, 7, 7]",Female,Adult
+290,290,emodb_small/images,6h85d8d0rrvntefpkq.jpg,"[480, 852]","[362, 8, 480, 453]","['Disapproval', 'Sadness']","[3, 6, 4]",Male,Kid
+11429,11429,emodb_small/images,4cdzd0w2mrq16rnf26.jpg,"[173, 260]","[86, 42, 162, 173]","['Happiness', 'Pleasure']","[9, 7, 7]",Male,Kid
+16731,16731,emodb_small/images,gv232bwvvkb8m27mh1.jpg,"[167, 301]","[49, 1, 167, 167]",['Anger'],"[1, 10, 10]",Male,Kid
+11596,11596,emodb_small/images,ft7cx0rkhwxj2tycj0.jpg,"[427, 640]","[129, 185, 239, 424]",['Anger'],"[5, 5, 6]",Female,Adult
+11503,11503,emodb_small/images,hki8r2od0n66k5bhjm.jpg,"[1080, 1920]","[488, 30, 1080, 1080]","['Aversion', 'Doubt/Confusion', 'Surprise']","[5, 4, 4]",Female,Kid
+7981,7981,emodb_small/images,fgvkha55e23s1zwvwv.jpg,"[667, 1000]","[1, 114, 667, 667]",['Surprise'],"[5, 4, 4]",Male,Adult
+12257,12257,emodb_small/images,7jp1vjir2p0f4rqfs4.jpg,"[714, 1068]","[169, 36, 714, 636]","['Confidence', 'Engagement', 'Excitement']","[5, 7, 8]",Female,Adult
+17108,17108,emodb_small/images,cp73gpw6t7x4u6l454.jpg,"[112, 168]","[1, 1, 112, 109]","['Aversion', 'Disapproval']","[3, 3, 3]",Male,Kid
+19552,19552,emodb_small/images,4oexuafppxik0xmpzo.jpg,"[3456, 5184]","[872, 67, 3456, 3456]","['Anticipation', 'Engagement', 'Excitement']","[6, 7, 7]",Male,Adult
+13316,13316,emodb_small/images,6jl8g5davklv3hw4fh.jpg,"[150, 150]","[30, 48, 150, 133]","['Anger', 'Annoyance', 'Fatigue', 'Suffering']","[3, 4, 3]",Male,Adult
+5972,5972,emodb_small/images,3cukvxhy7s41nrvf5b.jpg,"[787, 1400]","[549, 414, 787, 763]","['Affection', 'Excitement', 'Happiness']","[9, 7, 7]",Male,Kid
+16584,16584,emodb_small/images,7ohd6gku0gic85sbs7.jpg,"[183, 275]","[1, 24, 183, 184]","['Fatigue', 'Suffering']","[5, 3, 5]",Male,Adult
+5430,5430,emodb_small/images,hdravaj3wtnod8po4a.jpg,"[427, 956]","[164, 82, 427, 415]","['Doubt/Confusion', 'Surprise']","[5, 4, 4]",Male,Kid
+19482,19482,emodb_small/images,2og5gikcffdi088mf8.jpg,"[496, 554]","[133, 129, 282, 408]","['Engagement', 'Happiness', 'Pleasure']","[7, 5, 8]",Female,Adult
+10056,10056,emodb_small/images,6uab8ilx77ild3ldjm.jpg,"[183, 275]","[100, 1, 183, 183]","['Disconnection', 'Fatigue', 'Yearning']","[4, 4, 4]",Female,Adult
+3386,3386,emodb_small/images,gdli6adbasjcw7uvim.jpg,"[443, 634]","[230, 152, 443, 441]","['Disquietment', 'Fear']","[3, 6, 4]",Male,Adult
+16795,16795,emodb_small/images,bukcaslufs4nfqrt66.jpg,"[275, 183]","[2, 15, 184, 183]",['Aversion'],"[4, 6, 6]",Female,Adult
+9918,9918,emodb_small/images,eklcju2q0c5kcw1b8m.jpg,"[313, 500]","[79, 9, 313, 313]","['Pain', 'Sadness', 'Sensitivity', 'Suffering']","[1, 7, 1]",Male,Adult
+2767,2767,emodb_small/images,e15x3ogndoladu97ma.jpg,"[984, 1313]","[9, 63, 879, 981]","['Confidence', 'Engagement']","[5, 4, 7]",Male,Adult
+1185,1185,emodb_small/images,3j77g2s96huh7p9408.jpg,"[480, 852]","[347, 173, 383, 270]","['Anticipation', 'Doubt/Confusion', 'Engagement', 'Surprise']","[5, 7, 5]",Male,Adult
+13823,13823,framesdb/images,frame_0u67p3nw8rybhgj7.jpg,"[1152, 768]","[1001, 226, 1151, 579]","['Excitement', 'Happiness', 'Pleasure']","[5, 7, 4]",Female,Teenager
+7960,7960,framesdb/images,frame_fl6t80mhxi8b9b57.jpg,"[1600, 1200]","[1006, 761, 1409, 1186]",['Engagement'],"[7, 4, 6]",Male,Kid
+5998,5998,framesdb/images,frame_au34tuuhnptxfkuh.jpg,"[2832, 1592]","[79, 153, 561, 1591]",['Engagement'],"[5, 6, 8]",Male,Adult
+17765,17765,framesdb/images,frame_83f5hkqfqhh38tw0.jpg,"[4788, 2992]","[1253, 1723, 1958, 2952]","['Pain', 'Sadness', 'Suffering']","[4, 1, 10]",Male,Adult
+13757,13757,framesdb/images,frame_8h6ethm0i6kfifjf.jpg,"[638, 326]","[438, 82, 520, 261]","['Confidence', 'Happiness', 'Pleasure']","[6, 4, 7]",Female,Adult
+4292,4292,framesdb/images,frame_jj894cwwtu0eqxsk.jpg,"[450, 320]","[34, 15, 340, 302]",['Happiness'],"[7, 3, 4]",Female,Adult
+22024,22024,framesdb/images,frame_gjv0frqtt3kgd1rf.jpg,"[1024, 683]","[40, 44, 508, 682]","['Confidence', 'Excitement', 'Pleasure']","[6, 2, 3]",Male,Adult
+20751,20751,framesdb/images,frame_3yulh6fk2xp7cnh0.jpg,"[450, 320]","[108, 18, 157, 194]",['Engagement'],"[6, 5, 6]",Female,Adult
+19332,19332,framesdb/images,frame_l758z1nlq2597wab.jpg,"[450, 320]","[272, 70, 357, 283]","['Anticipation', 'Engagement', 'Happiness']","[8, 4, 8]",Female,Adult
+18074,18074,framesdb/images,frame_k4q6uvzlsibqxmdo.jpg,"[757, 496]","[169, 141, 263, 465]","['Engagement', 'Happiness', 'Peace']","[6, 5, 4]",Female,Kid
+7687,7687,framesdb/images,frame_6i4t0t5cipvd3al7.jpg,"[615, 409]","[276, 110, 382, 236]","['Disquietment', 'Fatigue', 'Pain', 'Sadness', 'Suffering', 'Sympathy']","[5, 4, 3]",Male,Adult
+18093,18093,framesdb/images,frame_acwvsvo4m8r2yziz.jpg,"[1100, 619]","[676, 434, 831, 617]","['Anticipation', 'Engagement']","[4, 7, 5]",Male,Adult
+13722,13722,framesdb/images,frame_gqokt5w4ypbly9bi.jpg,"[1920, 1080]","[568, 541, 671, 759]",['Engagement'],"[6, 7, 7]",Male,Adult
+5797,5797,framesdb/images,frame_7364i4jayb89kfmt.jpg,"[1760, 796]","[1254, 93, 1308, 287]",['Engagement'],"[4, 2, 9]",Male,Adult
+10171,10171,framesdb/images,frame_h8jphb78cmjr2df1.jpg,"[1280, 853]","[547, 234, 751, 832]",['Engagement'],"[7, 6, 7]",Female,Kid
+22738,22738,framesdb/images,frame_bh2wvszdblf1c49i.jpg,"[3872, 2592]","[1679, 109, 3781, 2591]","['Anticipation', 'Engagement', 'Happiness']","[7, 4, 3]",Female,Adult
+20591,20591,framesdb/images,frame_iz6plhglf70iua0u.jpg,"[1920, 1080]","[1410, 181, 1900, 1070]","['Engagement', 'Peace', 'Surprise']","[6, 3, 2]",Male,Adult
+7975,7975,framesdb/images,frame_czc0zt3p7g1my7wg.jpg,"[1200, 960]","[595, 130, 923, 939]",['Disconnection'],"[5, 7, 7]",Female,Adult
+14165,14165,framesdb/images,frame_ivfv1x55yo7e35rb.jpg,"[800, 600]","[565, 44, 786, 599]",['Engagement'],"[7, 5, 4]",Male,Kid
+7486,7486,framesdb/images,frame_5j1wl8pkga2645q0.jpg,"[800, 534]","[0, 108, 136, 429]",['Engagement'],"[5, 3, 5]",Male,Adult
+19217,19217,framesdb/images,frame_egx448vrxslfmsvm.jpg,"[348, 348]","[1, 17, 218, 297]",['Happiness'],"[7, 6, 6]",Male,Adult
+20532,20532,framesdb/images,frame_hqle3dmbkxj69e9o.jpg,"[450, 320]","[181, 76, 364, 217]",['Happiness'],"[6, 4, 9]",Female,Adult
+14742,14742,framesdb/images,frame_7mt38vzps15q5mfa.jpg,"[800, 487]","[582, 201, 633, 386]",['Engagement'],"[6, 5, 6]",Male,Teenager
+20363,20363,framesdb/images,frame_m1uniynx9tz03y0v.jpg,"[4320, 3240]","[1330, 771, 1696, 2119]",['Engagement'],"[5, 5, 7]",Male,Adult
+7925,7925,framesdb/images,frame_5oewbww6ewzftww4.jpg,"[620, 387]","[3, 8, 241, 292]","['Affection', 'Engagement', 'Happiness']","[6, 4, 8]",Female,Adult
+14441,14441,framesdb/images,frame_4n3gu5uyhyj74jd8.jpg,"[3968, 2976]","[2762, 980, 3323, 2958]",['Engagement'],"[6, 5, 6]",Male,Adult
+7756,7756,framesdb/images,frame_ae9c9drl18aac32h.jpg,"[480, 360]","[233, 60, 275, 179]","['Excitement', 'Happiness']","[7, 4, 5]",Male,Adult
+21332,21332,framesdb/images,frame_5ohs2e4d1vhn8yjx.jpg,"[700, 349]","[179, 0, 670, 348]",['Engagement'],"[6, 3, 7]",Female,Kid
+110,110,framesdb/images,frame_gq8umfw35sg36nlq.jpg,"[634, 418]","[542, 131, 627, 363]","['Affection', 'Confidence', 'Engagement']","[4, 4, 9]",Male,Adult
+20446,20446,framesdb/images,frame_5co0uifs6hakwn0c.jpg,"[1200, 800]","[726, 397, 858, 772]","['Engagement', 'Sadness']","[1, 3, 7]",Male,Adult
+22097,22097,framesdb/images,frame_c280emolqktqkfag.jpg,"[650, 433]","[332, 86, 466, 342]","['Confidence', 'Engagement']","[5, 7, 6]",Female,Adult
+11986,11986,framesdb/images,frame_cmronh18ol1lw8kb.jpg,"[700, 525]","[408, 194, 541, 401]",['Disconnection'],"[5, 2, 9]",Female,Adult
+3526,3526,framesdb/images,frame_gxvu6rgtprnbptcd.jpg,"[1024, 768]","[21, 54, 218, 521]","['Pain', 'Sadness', 'Suffering']","[5, 5, 6]",Male,Adult
+15218,15218,framesdb/images,frame_cdybwo74hl7k728t.jpg,"[620, 469]","[150, 42, 344, 427]","['Anticipation', 'Engagement']","[5, 6, 7]",Male,Adult
+13122,13122,framesdb/images,frame_l54oxknby0i9b59u.jpg,"[400, 340]","[225, 18, 383, 333]","['Doubt/Confusion', 'Engagement']","[5, 3, 10]",Female,Adult
+16390,16390,framesdb/images,frame_cl3fmwnxxjbab6nn.jpg,"[852, 480]","[189, 309, 332, 475]","['Excitement', 'Happiness', 'Pleasure']","[8, 9, 7]",Male,Adult
+19026,19026,framesdb/images,frame_g7ipk5366zorqu7a.jpg,"[640, 427]","[222, 239, 294, 360]",['Engagement'],"[5, 2, 3]",Female,Adult
+18203,18203,framesdb/images,frame_6bbqulf1ufzjtrfb.jpg,"[852, 480]","[319, 176, 360, 315]",['Disconnection'],"[8, 4, 7]",Male,Adult
+6532,6532,framesdb/images,frame_kx6we07mtf2e18lh.jpg,"[450, 320]","[58, 90, 235, 304]",['Engagement'],"[7, 7, 7]",Male,Adult
+5622,5622,framesdb/images,frame_f4bqefth1xrhsgh9.jpg,"[600, 350]","[477, 39, 517, 202]",['Engagement'],"[7, 2, 9]",Female,Adult
+1844,1844,framesdb/images,frame_3nbtsmc6c84w7nkm.jpg,"[1600, 1064]","[8, 18, 356, 669]","['Engagement', 'Fatigue']","[6, 5, 6]",Male,Adult
+3746,3746,framesdb/images,frame_hinax7u7dvmjxcpc.jpg,"[2592, 1936]","[1025, 827, 1136, 1142]",['Engagement'],"[8, 4, 7]",Male,Adult
+9042,9042,framesdb/images,frame_ihwr518i0jrcyi0g.jpg,"[1500, 1000]","[330, 200, 505, 807]","['Pain', 'Sadness', 'Suffering']","[4, 2, 3]",Male,Kid
+22129,22129,framesdb/images,frame_k06ynag23vhr71d1.jpg,"[1280, 903]","[418, 337, 653, 713]",['Engagement'],"[6, 3, 5]",Female,Adult
+1019,1019,framesdb/images,frame_4bu24lld445z4dv2.jpg,"[2808, 2106]","[597, 107, 805, 621]",['Disconnection'],"[6, 6, 6]",Male,Adult
+15275,15275,framesdb/images,frame_kyqhglku8jrhd05a.jpg,"[615, 409]","[142, 1, 377, 364]","['Anticipation', 'Confidence', 'Happiness']","[8, 3, 8]",Male,Teenager
+19866,19866,framesdb/images,frame_fhk61hs81c338ubo.jpg,"[400, 400]","[341, 101, 385, 326]",['Engagement'],"[6, 3, 4]",Female,Adult
+14300,14300,framesdb/images,frame_3os99dn8er6x5wti.jpg,"[300, 470]","[77, 160, 170, 407]","['Doubt/Confusion', 'Engagement']","[7, 6, 6]",Male,Kid
+19599,19599,framesdb/images,frame_ft9ro7xpkaw8c9v1.jpg,"[640, 480]","[126, 354, 263, 478]",['Disconnection'],"[4, 4, 9]",Male,Adult
+12524,12524,framesdb/images,frame_hcd0atz6do1k67mp.jpg,"[1920, 1080]","[735, 14, 1888, 1057]",['Engagement'],"[6, 2, 3]",Male,Adult
+3961,3961,framesdb/images,frame_i2xy64uh0falgz7x.jpg,"[3264, 2448]","[518, 933, 934, 1589]","['Engagement', 'Peace']","[5, 5, 6]",Female,Adult
+5883,5883,framesdb/images,frame_2qqy8icj4xthx9zm.jpg,"[959, 639]","[758, 166, 855, 328]",['Engagement'],"[5, 2, 8]",Female,Adult
+19643,19643,framesdb/images,frame_8g4piygwos7d76r7.jpg,"[450, 319]","[174, 62, 250, 285]",['Engagement'],"[5, 2, 9]",Male,Adult
+21306,21306,framesdb/images,frame_h09olq0yc6bc3vkt.jpg,"[3311, 2217]","[1037, 626, 1605, 1173]",['Engagement'],"[5, 6, 6]",Male,Adult
+14575,14575,framesdb/images,frame_l13azlwi9v5yz5vg.jpg,"[1100, 619]","[601, 160, 689, 311]","['Excitement', 'Happiness', 'Pleasure']","[4, 2, 8]",Male,Adult
+374,374,framesdb/images,frame_d3mgf5t00jbvpkm3.jpg,"[620, 387]","[438, 176, 575, 365]",['Engagement'],"[5, 3, 9]",Male,Adult
+18425,18425,framesdb/images,frame_1xe02xxbvejb7zpy.jpg,"[460, 330]","[31, 58, 127, 241]","['Engagement', 'Pleasure']","[6, 7, 7]",Male,Adult
+16491,16491,framesdb/images,frame_4r4v7l97kugywlzz.jpg,"[1620, 1080]","[296, 691, 392, 1064]",['Engagement'],"[6, 6, 8]",Male,Adult
+7338,7338,framesdb/images,frame_jywv13bhva56psfs.jpg,"[1240, 500]","[1001, 143, 1098, 445]",['Engagement'],"[4, 7, 7]",Female,Adult
+4363,4363,framesdb/images,frame_kthez6e4k5bieelp.jpg,"[1600, 982]","[113, 368, 265, 818]","['Engagement', 'Surprise']","[6, 5, 6]",Female,Adult
+18872,18872,framesdb/images,frame_l5ksa77jhb6qwxio.jpg,"[531, 800]","[157, 179, 327, 598]","['Anticipation', 'Confidence', 'Engagement', 'Excitement']","[4, 4, 7]",Male,Adult
+22998,22998,framesdb/images,frame_4r2ym7uvtx030mlf.jpg,"[1300, 866]","[21, 0, 600, 865]","['Engagement', 'Pleasure']","[7, 5, 6]",Female,Adult
+1076,1076,framesdb/images,frame_399p3cz5wenvu673.jpg,"[1440, 960]","[1269, 573, 1408, 787]",['Engagement'],"[7, 3, 8]",Female,Adult
+4338,4338,framesdb/images,frame_7q1rl5sr6fffo476.jpg,"[500, 333]","[389, 102, 456, 174]","['Engagement', 'Esteem', 'Peace']","[7, 4, 7]",Male,Adult
+7516,7516,framesdb/images,frame_4ms9n5fy46ssde9v.jpg,"[500, 332]","[44, 239, 107, 325]",['Surprise'],"[5, 5, 5]",Male,Adult
+11056,11056,framesdb/images,frame_6sntgoysravct7vb.jpg,"[480, 360]","[1, 84, 99, 359]",['Disconnection'],"[6, 5, 3]",Female,Adult
+11672,11672,framesdb/images,frame_apztd5rqirir5vuz.jpg,"[3264, 4928]","[1991, 2934, 2375, 3566]",['Engagement'],"[6, 8, 7]",Male,Adult
+7483,7483,framesdb/images,frame_dwo0wih0y1h4acc5.jpg,"[640, 515]","[334, 135, 395, 404]",['Engagement'],"[6, 2, 9]",Male,Adult
+21116,21116,framesdb/images,frame_2w6xcocqkxzm0o1k.jpg,"[570, 380]","[0, 0, 129, 282]","['Engagement', 'Excitement', 'Happiness']","[8, 6, 8]",Male,Adult
+12942,12942,framesdb/images,frame_cm6jkjjqaqrmn9g7.jpg,"[555, 371]","[167, 241, 268, 351]",['Engagement'],"[5, 2, 9]",Female,Adult
+581,581,framesdb/images,frame_lanjguyxen110f2o.jpg,"[1024, 683]","[31, 230, 355, 639]","['Confidence', 'Happiness', 'Peace']","[8, 3, 8]",Female,Adult
+8490,8490,framesdb/images,frame_fujao5vwetu3plpx.jpg,"[450, 319]","[0, 27, 156, 305]","['Anticipation', 'Engagement', 'Sensitivity']","[4, 3, 6]",Female,Adult
+3056,3056,framesdb/images,frame_6sta8ktkim5xpnqz.jpg,"[512, 341]","[103, 124, 191, 212]","['Annoyance', 'Aversion', 'Disapproval', 'Disconnection', 'Doubt/Confusion', 'Sadness', 'Sensitivity']","[4, 8, 4]",Male,Kid
+5089,5089,framesdb/images,frame_1qmwe8wtfn51j64t.jpg,"[2000, 1134]","[4, 340, 213, 938]","['Excitement', 'Happiness', 'Pleasure', 'Surprise']","[4, 8, 8]",Male,Adult
+19404,19404,framesdb/images,frame_2q9yexd7bzk1ego8.jpg,"[644, 306]","[269, 183, 303, 294]",['Engagement'],"[7, 7, 4]",Male,Kid
+9622,9622,framesdb/images,frame_ih6tr5yshxxl9d1b.jpg,"[654, 430]","[251, 131, 332, 298]","['Engagement', 'Peace']","[6, 6, 5]",Male,Adult
+16724,16724,framesdb/images,frame_hy1z7p6ol3epzx2u.jpg,"[450, 316]","[8, 120, 213, 301]","['Confidence', 'Engagement', 'Excitement', 'Happiness']","[7, 2, 3]",Female,Adult
+1330,1330,framesdb/images,frame_jho43ngrz6irqpgk.jpg,"[634, 423]","[201, 134, 345, 360]",['Anger'],"[4, 7, 7]",Male,Adult
+14743,14743,framesdb/images,frame_7mt38vzps15q5mfa.jpg,"[800, 487]","[473, 177, 526, 316]","['Engagement', 'Esteem', 'Happiness']","[5, 6, 4]",Male,Teenager
+10103,10103,framesdb/images,frame_99m5ohjm83nfvwg8.jpg,"[634, 511]","[109, 29, 417, 502]","['Confidence', 'Esteem', 'Happiness']","[6, 5, 6]",Female,Adult
+15625,15625,framesdb/images,frame_39n1gf6w2q5dqn0j.jpg,"[306, 469]","[222, 95, 299, 291]",['Engagement'],"[5, 5, 5]",Female,Adult
+9082,9082,framesdb/images,frame_36cxw3yo7uvtcn5i.jpg,"[800, 533]","[737, 279, 787, 376]",['Engagement'],"[6, 2, 5]",Male,Adult
+19507,19507,framesdb/images,frame_l02lebr067p3puv0.jpg,"[4096, 2732]","[402, 545, 1128, 2447]","['Anticipation', 'Engagement']","[8, 2, 9]",Male,Adult
+10841,10841,framesdb/images,frame_l2x996idf16h8x85.jpg,"[670, 446]","[116, 133, 380, 445]","['Engagement', 'Excitement', 'Happiness', 'Surprise']","[9, 6, 6]",Male,Kid
+14643,14643,framesdb/images,frame_1js7ye19hsk8ewne.jpg,"[940, 651]","[378, 127, 516, 463]",['Engagement'],"[5, 8, 5]",Male,Adult
+14909,14909,framesdb/images,frame_cepurykc0kdly01m.jpg,"[1300, 863]","[670, 649, 859, 839]",['Disconnection'],"[5, 6, 6]",Male,Adult
+12814,12814,framesdb/images,frame_1ya280fye7yyswcw.jpg,"[600, 450]","[361, 85, 456, 449]",['Engagement'],"[5, 2, 8]",Female,Adult
+13338,13338,framesdb/images,frame_l91jn4jcq3bjqrsy.jpg,"[1600, 1200]","[357, 328, 737, 1199]","['Anticipation', 'Disconnection', 'Sympathy']","[8, 4, 7]",Female,Teenager
+22795,22795,framesdb/images,frame_2f4k94j3xeuju2qi.jpg,"[740, 510]","[195, 101, 248, 197]",['Engagement'],"[4, 7, 7]",Female,Adult
+3626,3626,framesdb/images,frame_c48pggwqjlrmnhzc.jpg,"[600, 400]","[391, 129, 599, 399]","['Anticipation', 'Engagement']","[5, 2, 9]",Male,Adult
+22550,22550,framesdb/images,frame_jtvhvgasynpa4jh5.jpg,"[800, 600]","[610, 71, 796, 597]","['Anticipation', 'Confidence', 'Engagement']","[6, 3, 4]",Male,Adult
+17753,17753,framesdb/images,frame_b1xp4thdr1zuuzkx.jpg,"[960, 540]","[1, 10, 461, 518]","['Anticipation', 'Confidence', 'Engagement']","[5, 4, 3]",Male,Adult
+17102,17102,framesdb/images,frame_bmpneledkacjnyl4.jpg,"[1024, 685]","[868, 457, 995, 681]",['Disconnection'],"[5, 3, 3]",Male,Adult
+19060,19060,framesdb/images,frame_irfwt5uy21qholbp.jpg,"[600, 450]","[4, 132, 173, 388]","['Affection', 'Happiness']","[8, 5, 6]",Female,Adult
+19799,19799,framesdb/images,frame_86eeu6a6c2tdgfsw.jpg,"[450, 327]","[227, 46, 319, 279]","['Esteem', 'Happiness']","[7, 4, 6]",Male,Adult
+17808,17808,framesdb/images,frame_bvpab9d6wlmhhe6r.jpg,"[957, 1300]","[134, 175, 621, 1299]",['Engagement'],"[6, 4, 3]",Male,Adult
+197,197,framesdb/images,frame_jbtqq5ahai9ylby3.jpg,"[4576, 3376]","[1935, 466, 3805, 3203]",['Anger'],"[3, 7, 9]",Male,Adult
+11918,11918,framesdb/images,frame_dzgjc4hbg1g9l2n3.jpg,"[960, 400]","[815, 201, 927, 395]",['Engagement'],"[5, 6, 5]",Male,Adult
+16044,16044,framesdb/images,frame_5j8kf9privvsjp3u.jpg,"[980, 552]","[380, 50, 443, 374]",['Engagement'],"[6, 6, 6]",Male,Adult
+15074,15074,mscoco/images,COCO_train2014_000000368586.jpg,"[640, 427]","[187, 84, 396, 426]",['Engagement'],"[7, 8, 7]",Male,Adult
+17006,17006,mscoco/images,COCO_train2014_000000318496.jpg,"[500, 375]","[54, 52, 152, 283]",['Engagement'],"[6, 4, 8]",Male,Adult
+5062,5062,mscoco/images,COCO_train2014_000000233121.jpg,"[640, 640]","[11, 25, 346, 617]",['Engagement'],"[4, 9, 4]",Male,Adult
+16184,16184,mscoco/images,COCO_train2014_000000307475.jpg,"[500, 500]","[60, 68, 372, 474]","['Anticipation', 'Engagement']","[4, 10, 8]",Male,Adult
+6945,6945,mscoco/images,COCO_train2014_000000058630.jpg,"[640, 464]","[301, 9, 564, 454]","['Confidence', 'Engagement', 'Excitement']","[7, 7, 8]",Female,Adult
+16622,16622,mscoco/images,COCO_train2014_000000541027.jpg,"[640, 480]","[302, 98, 456, 466]","['Anticipation', 'Excitement']","[6, 4, 6]",Male,Adult
+8932,8932,mscoco/images,COCO_train2014_000000422956.jpg,"[640, 480]","[20, 110, 308, 353]",['Yearning'],"[5, 3, 6]",Male,Adult
+22810,22810,mscoco/images,COCO_val2014_000000493724.jpg,"[640, 480]","[372, 42, 553, 437]","['Engagement', 'Happiness']","[7, 7, 5]",Female,Adult
+15317,15317,mscoco/images,COCO_train2014_000000261843.jpg,"[640, 428]","[417, 60, 587, 345]","['Happiness', 'Peace']","[6, 4, 7]",Male,Adult
+12308,12308,mscoco/images,COCO_train2014_000000027888.jpg,"[640, 480]","[364, 100, 523, 309]",['Happiness'],"[5, 7, 10]",Female,Adult
+4514,4514,mscoco/images,COCO_train2014_000000544307.jpg,"[500, 375]","[263, 13, 410, 365]","['Excitement', 'Happiness']","[9, 4, 7]",Female,Adult
+22076,22076,mscoco/images,COCO_train2014_000000300981.jpg,"[640, 427]","[300, 42, 461, 245]","['Confidence', 'Excitement']","[7, 9, 9]",Male,Teenager
+8768,8768,mscoco/images,COCO_val2014_000000046331.jpg,"[640, 512]","[89, 17, 539, 510]","['Anticipation', 'Confidence', 'Engagement', 'Excitement']","[5, 7, 8]",Male,Adult
+10556,10556,mscoco/images,COCO_train2014_000000332273.jpg,"[640, 568]","[431, 26, 602, 539]",['Confidence'],"[7, 7, 9]",Male,Adult
+17874,17874,mscoco/images,COCO_train2014_000000488641.jpg,"[640, 424]","[220, 219, 420, 392]",['Disconnection'],"[8, 8, 7]",Male,Adult
+17628,17628,mscoco/images,COCO_train2014_000000186794.jpg,"[640, 480]","[454, 101, 564, 342]",['Happiness'],"[7, 10, 10]",Male,Adult
+517,517,mscoco/images,COCO_val2014_000000114033.jpg,"[480, 640]","[130, 37, 312, 391]","['Anticipation', 'Engagement', 'Excitement']","[7, 6, 7]",Male,Kid
+12715,12715,mscoco/images,COCO_train2014_000000110758.jpg,"[640, 379]","[314, 17, 568, 192]","['Confidence', 'Happiness']","[6, 7, 6]",Female,Adult
+6439,6439,mscoco/images,COCO_train2014_000000401846.jpg,"[640, 425]","[235, 169, 337, 416]","['Anticipation', 'Engagement', 'Esteem', 'Excitement']","[6, 6, 8]",Male,Adult
+14529,14529,mscoco/images,COCO_train2014_000000200896.jpg,"[640, 480]","[282, 147, 527, 392]",['Engagement'],"[7, 7, 8]",Male,Adult
+7241,7241,mscoco/images,COCO_train2014_000000503822.jpg,"[640, 427]","[9, 82, 349, 422]","['Confidence', 'Engagement', 'Excitement']","[5, 9, 7]",Male,Adult
+5737,5737,mscoco/images,COCO_train2014_000000505421.jpg,"[640, 480]","[373, 136, 546, 473]","['Excitement', 'Happiness']","[8, 5, 7]",Male,Teenager
+13196,13196,mscoco/images,COCO_train2014_000000213125.jpg,"[640, 429]","[205, 143, 362, 297]","['Confidence', 'Excitement']","[6, 8, 6]",Male,Adult
+1427,1427,mscoco/images,COCO_train2014_000000074354.jpg,"[500, 376]","[211, 133, 394, 319]",['Engagement'],"[4, 5, 4]",Male,Teenager
+13801,13801,mscoco/images,COCO_train2014_000000394583.jpg,"[640, 425]","[222, 73, 351, 410]","['Anticipation', 'Engagement', 'Esteem', 'Happiness']","[6, 5, 7]",Male,Adult
+1785,1785,mscoco/images,COCO_val2014_000000537548.jpg,"[640, 480]","[267, 104, 496, 424]","['Anticipation', 'Excitement']","[7, 8, 7]",Male,Adult
+15843,15843,mscoco/images,COCO_train2014_000000441905.jpg,"[498, 438]","[27, 13, 471, 433]","['Anticipation', 'Confidence', 'Excitement', 'Peace']","[7, 6, 9]",Female,Adult
+3302,3302,mscoco/images,COCO_val2014_000000146487.jpg,"[640, 427]","[215, 156, 423, 352]","['Anticipation', 'Engagement', 'Excitement']","[4, 4, 7]",Male,Adult
+2310,2310,mscoco/images,COCO_train2014_000000490626.jpg,"[640, 447]","[311, 36, 483, 245]","['Confidence', 'Engagement', 'Happiness']","[6, 8, 8]",Male,Adult
+20344,20344,mscoco/images,COCO_train2014_000000329587.jpg,"[500, 375]","[217, 30, 437, 374]","['Engagement', 'Excitement']","[5, 6, 7]",Male,Adult
+20759,20759,mscoco/images,COCO_train2014_000000290047.jpg,"[640, 428]","[372, 90, 529, 422]",['Anticipation'],"[4, 7, 7]",Female,Adult
+1678,1678,mscoco/images,COCO_train2014_000000060425.jpg,"[640, 389]","[325, 46, 522, 288]",['Happiness'],"[6, 7, 6]",Male,Adult
+7987,7987,mscoco/images,COCO_train2014_000000343148.jpg,"[612, 612]","[336, 23, 597, 560]","['Anticipation', 'Happiness']","[7, 6, 7]",Male,Adult
+11579,11579,mscoco/images,COCO_train2014_000000399138.jpg,"[640, 475]","[165, 165, 414, 467]","['Anticipation', 'Esteem', 'Excitement', 'Happiness']","[7, 8, 8]",Female,Adult
+22921,22921,mscoco/images,COCO_train2014_000000495750.jpg,"[640, 424]","[149, 167, 314, 347]",['Engagement'],"[8, 8, 7]",Female,Adult
+13617,13617,mscoco/images,COCO_train2014_000000495992.jpg,"[612, 612]","[355, 9, 524, 278]","['Engagement', 'Sensitivity', 'Yearning']","[6, 6, 5]",Male,Adult
+12714,12714,mscoco/images,COCO_train2014_000000494066.jpg,"[640, 480]","[281, 232, 395, 453]",['Engagement'],"[5, 9, 7]",Male,Adult
+14144,14144,mscoco/images,COCO_val2014_000000488346.jpg,"[640, 480]","[120, 92, 516, 472]","['Confidence', 'Excitement']","[6, 10, 8]",Male,Adult
+10728,10728,mscoco/images,COCO_val2014_000000213455.jpg,"[640, 480]","[200, 69, 440, 379]","['Anticipation', 'Confidence', 'Engagement', 'Excitement']","[6, 10, 10]",Male,Teenager
+19921,19921,mscoco/images,COCO_val2014_000000240287.jpg,"[640, 425]","[132, 74, 333, 419]","['Confidence', 'Happiness']","[7, 6, 7]",Male,Adult
+9603,9603,mscoco/images,COCO_train2014_000000484273.jpg,"[640, 427]","[91, 39, 223, 426]",['Engagement'],"[6, 7, 9]",Female,Adult
+4282,4282,mscoco/images,COCO_train2014_000000215407.jpg,"[640, 478]","[424, 166, 547, 460]",['Happiness'],"[6, 7, 6]",Male,Adult
+10691,10691,mscoco/images,COCO_train2014_000000268516.jpg,"[640, 427]","[164, 45, 420, 419]",['Pleasure'],"[8, 4, 7]",Male,Adult
+14680,14680,mscoco/images,COCO_train2014_000000402384.jpg,"[640, 480]","[25, 69, 187, 291]","['Anticipation', 'Excitement']","[5, 6, 7]",Male,Teenager
+17916,17916,mscoco/images,COCO_train2014_000000423162.jpg,"[500, 333]","[181, 98, 303, 318]","['Anticipation', 'Engagement', 'Excitement']","[7, 7, 8]",Male,Adult
+20489,20489,mscoco/images,COCO_train2014_000000571867.jpg,"[612, 612]","[73, 26, 598, 591]",['Happiness'],"[8, 4, 8]",Female,Adult
+21117,21117,mscoco/images,COCO_train2014_000000318403.jpg,"[640, 509]","[124, 198, 253, 484]",['Yearning'],"[3, 4, 3]",Male,Adult
+12101,12101,mscoco/images,COCO_train2014_000000034489.jpg,"[640, 480]","[132, 121, 353, 276]","['Peace', 'Pleasure']","[6, 7, 8]",Female,Adult
+4418,4418,mscoco/images,COCO_train2014_000000226232.jpg,"[640, 427]","[133, 57, 298, 374]",['Anticipation'],"[3, 3, 3]",Female,Kid
+19775,19775,mscoco/images,COCO_train2014_000000461876.jpg,"[640, 480]","[44, 174, 241, 473]","['Disquietment', 'Fatigue']","[6, 5, 8]",Male,Adult
+3700,3700,mscoco/images,COCO_train2014_000000380827.jpg,"[640, 475]","[370, 151, 522, 467]",['Happiness'],"[5, 5, 7]",Male,Adult
+2078,2078,mscoco/images,COCO_train2014_000000424137.jpg,"[640, 421]","[302, 22, 537, 304]",['Anticipation'],"[6, 8, 9]",Female,Adult
+4570,4570,mscoco/images,COCO_val2014_000000040948.jpg,"[640, 423]","[423, 24, 607, 410]","['Engagement', 'Fatigue']","[5, 6, 7]",Male,Adult
+5741,5741,mscoco/images,COCO_train2014_000000321030.jpg,"[640, 427]","[211, 134, 331, 417]",['Anticipation'],"[6, 8, 7]",Female,Kid
+14205,14205,mscoco/images,COCO_train2014_000000232676.jpg,"[640, 480]","[237, 5, 617, 479]",['Yearning'],"[8, 8, 7]",Male,Adult
+13981,13981,mscoco/images,COCO_val2014_000000563871.jpg,"[640, 480]","[83, 175, 374, 390]","['Esteem', 'Excitement', 'Sympathy']","[6, 7, 7]",Male,Teenager
+19278,19278,mscoco/images,COCO_train2014_000000415283.jpg,"[640, 480]","[445, 76, 623, 308]",['Yearning'],"[7, 7, 7]",Female,Adult
+251,251,mscoco/images,COCO_val2014_000000485090.jpg,"[640, 427]","[95, 17, 319, 418]","['Anticipation', 'Engagement', 'Excitement', 'Pleasure']","[5, 5, 8]",Male,Adult
+10234,10234,mscoco/images,COCO_train2014_000000112337.jpg,"[640, 401]","[440, 161, 547, 385]",['Pleasure'],"[7, 3, 8]",Female,Adult
+22872,22872,mscoco/images,COCO_train2014_000000080341.jpg,"[480, 640]","[260, 178, 455, 322]","['Engagement', 'Happiness']","[6, 4, 5]",Female,Adult
+3373,3373,mscoco/images,COCO_train2014_000000303431.jpg,"[480, 640]","[149, 20, 439, 473]",['Anticipation'],"[6, 4, 7]",Female,Adult
+1348,1348,mscoco/images,COCO_train2014_000000246412.jpg,"[500, 400]","[137, 71, 478, 373]","['Anticipation', 'Engagement']","[5, 8, 7]",Male,Adult
+20980,20980,mscoco/images,COCO_train2014_000000151382.jpg,"[427, 640]","[62, 138, 231, 350]","['Anticipation', 'Confidence', 'Engagement', 'Excitement', 'Happiness']","[7, 8, 10]",Male,Adult
+2058,2058,mscoco/images,COCO_val2014_000000509459.jpg,"[427, 640]","[88, 58, 320, 390]","['Anticipation', 'Engagement', 'Excitement']","[6, 10, 10]",Male,Teenager
+2267,2267,mscoco/images,COCO_train2014_000000048632.jpg,"[640, 458]","[182, 167, 379, 304]",['Engagement'],"[4, 5, 4]",Male,Adult
+1038,1038,mscoco/images,COCO_train2014_000000171017.jpg,"[640, 480]","[149, 12, 508, 473]","['Confidence', 'Engagement', 'Pain']","[4, 6, 5]",Male,Adult
+5863,5863,mscoco/images,COCO_train2014_000000009878.jpg,"[640, 469]","[136, 83, 285, 326]","['Engagement', 'Happiness']","[7, 8, 6]",Male,Adult
+20592,20592,mscoco/images,COCO_train2014_000000042804.jpg,"[640, 426]","[78, 53, 191, 342]","['Engagement', 'Peace']","[8, 4, 4]",Female,Adult
+3764,3764,mscoco/images,COCO_val2014_000000089648.jpg,"[640, 427]","[224, 125, 404, 257]",['Engagement'],"[6, 3, 8]",Female,Teenager
+2108,2108,mscoco/images,COCO_val2014_000000541924.jpg,"[640, 572]","[432, 212, 557, 526]","['Engagement', 'Happiness', 'Pleasure']","[8, 4, 7]",Female,Adult
+20079,20079,mscoco/images,COCO_train2014_000000413749.jpg,"[640, 468]","[256, 212, 430, 381]",['Happiness'],"[8, 4, 7]",Female,Kid
+15242,15242,mscoco/images,COCO_train2014_000000167743.jpg,"[640, 425]","[109, 167, 362, 424]",['Engagement'],"[7, 5, 7]",Female,Kid
+16855,16855,mscoco/images,COCO_train2014_000000362395.jpg,"[640, 427]","[162, 58, 299, 337]",['Anticipation'],"[6, 10, 10]",Male,Adult
+14304,14304,mscoco/images,COCO_train2014_000000224596.jpg,"[640, 514]","[252, 161, 447, 433]",['Happiness'],"[5, 7, 7]",Male,Adult
+20969,20969,mscoco/images,COCO_train2014_000000310013.jpg,"[427, 640]","[69, 105, 280, 385]",['Confidence'],"[6, 8, 7]",Male,Teenager
+7502,7502,mscoco/images,COCO_train2014_000000504108.jpg,"[640, 480]","[129, 32, 378, 474]","['Peace', 'Sympathy']","[4, 4, 4]",Female,Adult
+1999,1999,mscoco/images,COCO_train2014_000000056126.jpg,"[640, 427]","[204, 73, 306, 349]",['Disquietment'],"[6, 7, 7]",Male,Adult
+13738,13738,mscoco/images,COCO_train2014_000000161015.jpg,"[640, 383]","[275, 139, 416, 381]",['Happiness'],"[6, 6, 4]",Male,Teenager
+18013,18013,mscoco/images,COCO_train2014_000000532704.jpg,"[640, 427]","[114, 102, 374, 426]","['Confidence', 'Excitement', 'Happiness']","[9, 7, 8]",Female,Adult
+4383,4383,mscoco/images,COCO_train2014_000000256766.jpg,"[640, 480]","[156, 78, 300, 413]",['Engagement'],"[6, 3, 8]",Male,Kid
+14885,14885,mscoco/images,COCO_train2014_000000209383.jpg,"[640, 640]","[271, 59, 385, 389]","['Peace', 'Sensitivity', 'Yearning']","[5, 6, 6]",Male,Adult
+17066,17066,mscoco/images,COCO_train2014_000000014801.jpg,"[640, 480]","[357, 181, 464, 417]",['Engagement'],"[3, 3, 2]",Male,Adult
+2131,2131,mscoco/images,COCO_val2014_000000522935.jpg,"[640, 480]","[224, 72, 452, 417]","['Confidence', 'Excitement', 'Happiness']","[8, 4, 9]",Female,Adult
+20138,20138,mscoco/images,COCO_train2014_000000353720.jpg,"[640, 427]","[95, 76, 384, 421]","['Disapproval', 'Engagement']","[5, 4, 7]",Male,Adult
+18170,18170,mscoco/images,COCO_train2014_000000337339.jpg,"[640, 428]","[103, 33, 258, 385]","['Happiness', 'Peace']","[6, 8, 7]",Male,Kid
+7366,7366,mscoco/images,COCO_train2014_000000221119.jpg,"[639, 640]","[82, 116, 278, 632]","['Anticipation', 'Disquietment', 'Fatigue']","[8, 7, 8]",Female,Adult
+43,43,mscoco/images,COCO_train2014_000000088609.jpg,"[640, 480]","[308, 28, 574, 441]",['Happiness'],"[7, 3, 7]",Male,Kid
+14184,14184,mscoco/images,COCO_train2014_000000454878.jpg,"[640, 478]","[204, 124, 353, 389]","['Anticipation', 'Esteem', 'Sympathy']","[6, 9, 9]",Male,Adult
+21945,21945,mscoco/images,COCO_train2014_000000404849.jpg,"[640, 426]","[312, 12, 551, 285]","['Confidence', 'Excitement', 'Happiness']","[6, 9, 9]",Male,Teenager
+11146,11146,mscoco/images,COCO_val2014_000000170517.jpg,"[500, 320]","[261, 44, 366, 267]",['Peace'],"[6, 3, 9]",Male,Adult
+4584,4584,mscoco/images,COCO_val2014_000000023579.jpg,"[640, 480]","[125, 92, 505, 472]","['Affection', 'Esteem', 'Happiness', 'Sympathy']","[6, 4, 7]",Female,Adult
+21803,21803,mscoco/images,COCO_val2014_000000220382.jpg,"[640, 427]","[218, 112, 420, 388]","['Anticipation', 'Engagement']","[6, 6, 7]",Male,Teenager
+7201,7201,mscoco/images,COCO_val2014_000000248300.jpg,"[640, 538]","[280, 85, 607, 531]","['Affection', 'Engagement', 'Happiness']","[7, 3, 9]",Female,Adult
+13162,13162,mscoco/images,COCO_train2014_000000437520.jpg,"[480, 640]","[122, 163, 409, 400]",['Doubt/Confusion'],"[5, 4, 6]",Male,Adult
+17187,17187,mscoco/images,COCO_train2014_000000230863.jpg,"[640, 424]","[80, 91, 208, 399]",['Anticipation'],"[6, 7, 6]",Male,Adult
+3184,3184,mscoco/images,COCO_train2014_000000055818.jpg,"[640, 480]","[407, 47, 584, 471]","['Confidence', 'Engagement', 'Excitement', 'Happiness']","[5, 6, 7]",Female,Teenager
+5040,5040,mscoco/images,COCO_val2014_000000209917.jpg,"[640, 429]","[255, 39, 367, 403]",['Anticipation'],"[7, 8, 7]",Female,Adult
+16269,16269,mscoco/images,COCO_train2014_000000262124.jpg,"[640, 570]","[28, 231, 208, 551]",['Yearning'],"[4, 6, 4]",Male,Adult
+9343,9343,mscoco/images,COCO_train2014_000000156969.jpg,"[640, 514]","[324, 219, 574, 506]",['Engagement'],"[7, 8, 7]",Male,Adult
+12399,12399,mscoco/images,COCO_train2014_000000281952.jpg,"[640, 640]","[118, 47, 474, 619]","['Anticipation', 'Confidence', 'Engagement']","[6, 8, 7]",Male,Adult
